@@ -1,0 +1,1 @@
+../  # installs the package in 'backend' - pip has to be running in a place from which the relative path is correct
